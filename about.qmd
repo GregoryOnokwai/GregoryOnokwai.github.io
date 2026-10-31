@@ -1,0 +1,48 @@
+---
+title: "About"
+toc: false
+---
+
+## Engineer by training. Data analyst by curiosity.
+
+Chemical engineering taught me that every system tells a story, as long as
+you measure it carefully. Somewhere between process calculations and renewable
+energy research, I realized the part I enjoyed most wasn't the equations. It
+was the data, and that moment when a confusing pattern suddenly makes sense.
+
+That curiosity became my career. Today, I help organizations turn scattered
+numbers into clear answers. It might be a dashboard a manager checks every
+morning, or a model that spots a trend before it becomes a problem. Either
+way, my goal is the same: make data easy to understand and easy to act on.
+
+## What I believe
+
+**Clarity beats complexity.** The best insight is the one people actually use.
+Teaching STEM has shown me that a clear explanation is worth more than a
+clever chart.
+
+**Good decisions start with good data.** I'd rather spend an extra hour
+checking the numbers than have anyone act on the wrong ones.
+
+**Data should make a difference.** I'm drawn to work in business intelligence,
+engineering, energy and climate, where better data leads to better outcomes
+for businesses, communities and the planet.
+
+## Where I'm headed
+
+I'm deepening my skills in AI, machine learning and cybersecurity, because
+the future of analytics is smarter, faster and more secure. Wherever data
+goes next, I want to help people use it well.
+
+## Beyond the data
+
+When I'm not working with data, I'm spending time with my family. They're my
+biggest source of joy and my reminder of why the work matters. Good
+decisions, after all, are about people.
+
+---
+
+**Have a question worth answering with data? Let's talk.**
+
+[Get in touch](contact.qmd){.btn .btn-primary}
+[See my work](projects.qmd){.btn .btn-outline-primary}

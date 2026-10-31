@@ -1,0 +1,12 @@
+---
+title: "Contact"
+toc: false
+---
+
+I'm open to data analyst and data science opportunities, collaborations,
+and conversations about climate and energy analytics.
+
+- **Email:** [gregoryonokwai@gmail.com](mailto:gregoryonokwai@gmail.com)
+- **LinkedIn:** [linkedin.com/in/gregory-onokwai](https://linkedin.com/in/gregory-onokwai)
+- **GitHub:** [github.com/GregoryOnokwai](https://github.com/GregoryOnokwai)
+- **Location:** Calgary, Alberta, Canada

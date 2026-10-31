@@ -1,0 +1,33 @@
+---
+title: "Certifications"
+toc: false
+---
+
+*Click any certification to verify it.*
+
+## Data Analytics & Business Intelligence
+
+- [**Google Advanced Data Analytics**](https://www.credly.com/badges/4d17b0c2-de2b-4853-b953-91dd9362e208/public_url), Google (Dec 2024)
+- **Google Business Intelligence**
+- [**IBM Data Analyst Professional Certificate**](https://coursera.org/share/d7625e7a9b7bbf55f8fde8450b0fcdd9), IBM
+- [**Machine Learning for Data Science Projects**](https://www.credly.com/badges/055e335b-fd45-4295-a5c7-a06dbd16bd21/public_url), IBM (Dec 2025)
+- [**Data Analytics Essentials**](https://www.credly.com/badges/8f84018f-18ca-42bb-bd8a-77fc9f5a34a6/public_url), Cisco Networking Academy (Feb 2026)
+
+## AI & Data Platforms
+
+- [**Databricks Fundamentals Accreditation**](https://credentials.databricks.com/ac4d4d0e-f7cb-43bc-8f26-034b305fe4cb#acc.pX8kbHhC), Databricks (Apr 2025)
+- [**Generative AI Fundamentals**](https://credentials.databricks.com/5ba8ebc8-2cbd-4dd0-a589-55337ca8c85e#acc.WswOhL36), Databricks (Nov 2024)
+- [**AI Fluency: Framework & Foundations**](https://verify.skilljar.com/c/ra98gninpd92), Anthropic (Mar 2026)
+- [**Claude 101**](https://verify.skilljar.com/c/2rkw9agwe7bz), Anthropic (Mar 2026)
+- [**Google Prompting Essentials**](https://coursera.org/share/c4fb2f2260f759ac98089b9831502d7b), Google
+
+## Education & Training
+
+- **AI & Data Analytics Program**, NPower Canada (in progress, expected Nov 2026)
+- **Diploma in Cybersecurity**, ABM College, Calgary, AB (Aug 2025)
+- **M.Eng. Chemical Engineering (Distinction)**, University of Abuja
+- **B.Eng. Chemical Engineering**, University of Benin
+
+## Professional Skills
+
+- [**Agile Project Management**](https://www.life-global.org/certificate/0544206a-937a-47eb-b740-71ce4f029efc), HP LIFE (Dec 2024)

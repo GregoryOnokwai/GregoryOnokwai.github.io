@@ -1,0 +1,63 @@
+/*-- scss:defaults --*/
+
+// Font
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+$font-family-sans-serif: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+
+// Colour palette: dark navy + steel blue
+$navy-900:    #0B1A2E;   // page background
+$navy-800:    #12243D;   // menu bar
+$steel:       #4A90C2;   // main accent (buttons)
+$steel-light: #8FC1E3;   // links, highlights
+$text-light:  #E6EDF5;   // body text
+
+$body-bg:        $navy-900;
+$body-color:     $text-light;
+$headings-color: #FFFFFF;
+$primary:        $steel;
+$link-color:     $steel-light;
+
+$navbar-bg: $navy-800;
+$navbar-fg: $text-light;
+$navbar-hl: $steel-light;
+$footer-bg: $navy-900;
+
+/*-- scss:rules --*/
+
+// Menu bar: thin line underneath
+.navbar {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+// Headings a bit bolder
+h1, h2, h3 {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+// Rounded "pill" buttons with a hover effect
+.btn {
+  border-radius: 999px;
+  padding: 0.55rem 1.5rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+.btn:hover {
+  transform: translateY(-2px);
+}
+
+// LinkedIn / GitHub / Email buttons under your photo
+.about-link {
+  border-color: $steel !important;
+  color: $text-light !important;
+  border-radius: 999px !important;
+}
+.about-link:hover {
+  background-color: $steel;
+  color: #FFFFFF !important;
+}
+
+// Photo: steel-blue ring
+.about-image {
+  border: 4px solid $steel;
+}

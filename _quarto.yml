@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Gregory Onokwai"
+  site-url: "https://gregoryonokwai.github.io"
+  description: "Data Analyst portfolio: Python, SQL, data visualization and machine learning"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: certifications.qmd
+        text: Certifications
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/GregoryOnokwai
+      - icon: linkedin
+        href: https://linkedin.com/in/gregory-onokwai
+      - icon: envelope
+        href: mailto:gregoryonokwai@gmail.com
+
+format:
+  html:
+    theme:
+      dark: [darkly, custom.scss]
+      light: cosmo
+    css: styles.css
+    toc: true
+
+
+

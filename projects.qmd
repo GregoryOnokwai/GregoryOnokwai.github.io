@@ -1,0 +1,7 @@
+---
+title: "Projects"
+toc: false
+---
+
+Projects are coming soon. I'm polishing a few data analysis and machine
+learning case studies. Check back shortly.

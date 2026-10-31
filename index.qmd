@@ -1,0 +1,30 @@
+---
+title: "Gregory Onokwai"
+subtitle: "Data Analyst"
+about:
+  template: trestles
+  image: passport/headshot.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/gregory-onokwai
+    - icon: github
+      text: GitHub
+      href: https://github.com/GregoryOnokwai
+    - icon: envelope
+      text: Email
+      href: mailto:gregoryonokwai@gmail.com
+---
+
+I'm a data analyst with an engineering background. I turn complex data into
+clear insights that help people make better decisions. I work with Python, SQL
+and business intelligence tools to clean, analyze and visualize data, and to
+build dashboards and models that answer real business questions.
+
+My special interests sit where data meets the physical world: **engineering,
+energy and climate**. I enjoy using analytics and machine learning to
+understand performance, risk and change over time, and to communicate the
+findings in a way any audience can act on.
+
+[View my projects](projects.qmd){.btn .btn-primary}
+[Get in touch](contact.qmd){.btn .btn-outline-primary}
