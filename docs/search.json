@@ -4,7 +4,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Projects are coming soon. I’m polishing a few data analysis and machine learning case studies. Check back shortly."
+    "text": "A selection of data analysis and visualization projects. Each project links to a live demo and its source code on GitHub."
+  },
+  {
+    "objectID": "projects.html#automobile-sales-performance-across-economic-cycles",
+    "href": "projects.html#automobile-sales-performance-across-economic-cycles",
+    "title": "Projects",
+    "section": "Automobile Sales Performance Across Economic Cycles",
+    "text": "Automobile Sales Performance Across Economic Cycles\n\nInteractive Plotly Dash dashboard analysing 44 years of US automobile sales (1980–2023). It compares recession and non-recession periods and links sales to advertising, seasonality, GDP, unemployment and consumer confidence. Key finding: average sales per record fall 62.5% during recessions.\nTools: Python · Plotly Dash · pandas · statsmodels · Render\nLive Dashboard View Code"
   },
   {
     "objectID": "contact.html",

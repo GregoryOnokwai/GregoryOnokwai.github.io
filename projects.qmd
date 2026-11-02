@@ -3,5 +3,20 @@ title: "Projects"
 toc: false
 ---
 
-Projects are coming soon. I'm polishing a few data analysis and machine
-learning case studies. Check back shortly.
+A selection of data analysis and visualization projects. Each project links to a live demo and its source code on GitHub.
+
+---
+
+## Automobile Sales Performance Across Economic Cycles
+
+![](images/automobile-dashboard.png)
+
+Interactive Plotly Dash dashboard analysing 44 years of US automobile sales (1980–2023).
+It compares recession and non-recession periods and links sales to advertising,
+seasonality, GDP, unemployment and consumer confidence.
+**Key finding:** average sales per record fall **62.5%** during recessions.
+
+**Tools:** Python · Plotly Dash · pandas · statsmodels · Render
+
+[Live Dashboard](https://automobile-sales-dashboard-n4wl.onrender.com){.btn .btn-primary target="_blank"}
+[View Code](https://github.com/GregoryOnokwai/automobile-sales-dashboard){.btn .btn-outline-primary target="_blank"}
