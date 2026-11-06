@@ -7,8 +7,8 @@ toc: false
 
 ## Data Analytics & Business Intelligence
 
-- [**Google Advanced Data Analytics Professional Certificate**](https://www.credly.com/badges/4d17b0c2-de2b-4853-b953-91dd9362e208/public_url), Google (Dec 2024)
-- [**Google Business Intelligence Professional Certificate**](https://www.credly.com/badges/4d17b0c2-de2b-4853-b953-91dd9362e208/public_url), Google (Nov 2026)
+- [**Google Advanced Data Analytics**](https://www.credly.com/badges/4d17b0c2-de2b-4853-b953-91dd9362e208/public_url), Google (Dec 2024)
+- **Google Business Intelligence**
 - [**IBM Data Analyst Professional Certificate**](https://coursera.org/share/d7625e7a9b7bbf55f8fde8450b0fcdd9), IBM
 - [**Machine Learning for Data Science Projects**](https://www.credly.com/badges/055e335b-fd45-4295-a5c7-a06dbd16bd21/public_url), IBM (Dec 2025)
 - [**Data Analytics Essentials**](https://www.credly.com/badges/8f84018f-18ca-42bb-bd8a-77fc9f5a34a6/public_url), Cisco Networking Academy (Feb 2026)
