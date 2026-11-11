@@ -4,7 +4,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "A selection of data analysis and visualization projects. Each project links to a live demo and its source code on GitHub."
+    "text": "A selection of data analysis, visualization and cybersecurity projects. Each project links to a live demo and its source code on GitHub."
+  },
+  {
+    "objectID": "projects.html#operation-defend-the-north-incident-response-white-paper",
+    "href": "projects.html#operation-defend-the-north-incident-response-white-paper",
+    "title": "Projects",
+    "section": "Operation Defend the North: Incident Response White Paper",
+    "text": "Operation Defend the North: Incident Response White Paper\n\nA 14-page white paper analysing a simulated nationwide cyberattack on a Canadian telecom provider, based on SiberX’s Operation Defend the North 2025 (Vancouver) exercise. It follows the response through the five NIST incident response stages, from detection to post-incident review, and compares each stage with real incidents including the Rogers outage, SolarWinds and NotPetya. Key result: full recovery in 7h 15m after a malicious firmware update caused a national blackout.\nSkills: Incident Response · NIST SP 800-61 · Zero Trust · Root Cause Analysis · Technical Writing\nRead the White Paper View on GitHub"
   },
   {
     "objectID": "projects.html#automobile-sales-performance-across-economic-cycles",
