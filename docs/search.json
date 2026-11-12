@@ -4,7 +4,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "A selection of data analysis, visualization and cybersecurity projects. Each project links to a live demo and its source code on GitHub."
+    "text": "A selection of data analysis, visualization and cybersecurity projects. Each project links to its full write-up or live demo and its source on GitHub."
+  },
+  {
+    "objectID": "projects.html#global-energy-growth-emissions-analysis-notebook-01",
+    "href": "projects.html#global-energy-growth-emissions-analysis-notebook-01",
+    "title": "Projects",
+    "section": "Global Energy, Growth & Emissions Analysis: Notebook 01",
+    "text": "Global Energy, Growth & Emissions Analysis: Notebook 01\n\nFirst notebook in a three-part data science project on how energy access, the energy mix and efficiency relate to economic growth and CO₂ emissions across 176 countries (2000–2020). This notebook frames the business problem (UN SDG 7 targets, decoupling growth from emissions) and builds a documented, reliable dataset: profiling, skewness analysis, validity rules, fact-based gap filling, robust outlier flagging and a country coverage score. Highlight: recovered 105 missing nuclear values exactly from an accounting identity instead of guessing them.\nTools: Python · pandas · NumPy · Matplotlib · Jupyter\nRead the Notebook View on GitHub"
   },
   {
     "objectID": "projects.html#operation-defend-the-north-incident-response-white-paper",
