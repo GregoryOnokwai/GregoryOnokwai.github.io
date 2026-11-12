@@ -3,9 +3,44 @@ title: "Projects"
 toc: false
 ---
 
-A selection of data analysis and visualization projects. Each project links to a live demo and its source code on GitHub.
+A selection of data analysis, visualization and cybersecurity projects. Each project links to its full write-up or live demo and its source on GitHub.
 
----
+<hr>
+
+## Global Energy, Growth & Emissions Analysis: Notebook 01
+
+![](images/energy-missing-heatmap.png){width="80%"}
+
+First notebook in a three-part data science project on how energy access, the energy mix and
+efficiency relate to economic growth and CO₂ emissions across **176 countries (2000–2020)**.
+This notebook frames the business problem (UN SDG 7 targets, decoupling growth from emissions)
+and builds a documented, reliable dataset: profiling, skewness analysis, validity rules,
+fact-based gap filling, robust outlier flagging and a country coverage score.
+**Highlight:** recovered 105 missing nuclear values exactly from an accounting identity instead of guessing them.
+
+**Tools:** Python · pandas · NumPy · Matplotlib · Jupyter
+
+[Read the Notebook](https://nbviewer.org/github/GregoryOnokwai/global-energy-growth-emissions/blob/main/notebooks/01_introduction_and_data_cleaning.ipynb){.btn .btn-primary target="_blank"}
+[View on GitHub](https://github.com/GregoryOnokwai/global-energy-growth-emissions){.btn .btn-outline-primary target="_blank"}
+
+<hr>
+
+## Operation Defend the North: Incident Response White Paper
+
+![](images/incident-response-cover.png){width="45%"}
+
+A 14-page white paper analysing a simulated nationwide cyberattack on a Canadian telecom provider,
+based on SiberX's Operation Defend the North 2025 (Vancouver) exercise. It follows the response
+through the five NIST incident response stages, from detection to post-incident review, and
+compares each stage with real incidents including the Rogers outage, SolarWinds and NotPetya.
+**Key result:** full recovery in **7h 15m** after a malicious firmware update caused a national blackout.
+
+**Skills:** Incident Response · NIST SP 800-61 · Zero Trust · Root Cause Analysis · Technical Writing
+
+[Read the White Paper](https://github.com/GregoryOnokwai/incident-response-white-paper/blob/main/Operation_Defend_the_North_Incident_Response_White_Paper.pdf){.btn .btn-primary target="_blank"}
+[View on GitHub](https://github.com/GregoryOnokwai/incident-response-white-paper){.btn .btn-outline-primary target="_blank"}
+
+<hr>
 
 ## Automobile Sales Performance Across Economic Cycles
 
